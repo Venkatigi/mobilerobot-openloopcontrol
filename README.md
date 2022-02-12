@@ -10,18 +10,23 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
+
 Initiate the MobileRobot.
 
 Step2:
+
 Connect your PC with the MobileRobot.
 
 Step3:
+
 Open Python program.
 
 Step4:
+
 Program the movements of the robot using python code.
 
 Step5:
+
 Execute the python program.
 
 ## Program
